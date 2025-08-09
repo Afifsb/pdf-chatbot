@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # env files
-.env
-
+frontend/.env
+frontend/.env.production
 
